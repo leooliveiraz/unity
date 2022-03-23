@@ -14,6 +14,14 @@ multiplayer1/[Bb]uilds/
 multiplayer1/[Ll]ogs/
 multiplayer1/[Uu]ser[Ss]ettings/
 
+multiplayer2-udp/[Ll]ibrary/
+multiplayer2-udp/[Tt]emp/
+multiplayer2-udp/[Oo]bj/
+multiplayer2-udp/[Bb]uild/
+multiplayer2-udp/[Bb]uilds/
+multiplayer2-udp/[Ll]ogs/
+multiplayer2-udp/[Uu]ser[Ss]ettings/
+
 .consulo/
 *.csproj
 *.unityproj
