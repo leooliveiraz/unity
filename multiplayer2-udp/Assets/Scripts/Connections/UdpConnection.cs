@@ -10,7 +10,7 @@ using UnityEngine;
 public class UdpConnection : MonoBehaviour
 {
   UdpClient client;
-  string hostIp = "localhost";
+  string hostIp = "127.0.0.1"; //"172.26.125.41"
   int hostPort = 1234;
   
   private Thread threadReceive;
